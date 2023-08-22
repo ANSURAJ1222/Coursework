@@ -1,0 +1,33 @@
+.register{
+    border: 2px solid white;
+    padding: 20px;
+    width: 20%;
+    position: relative;
+    left: 534px;
+    top: 140px;
+    box-shadow: 10px 20px white;
+    border-radius: 20px;
+    height: 60vh;
+    color: white;
+}
+body::before{
+    content: "";
+    background: url(e1.jpg);
+    position: absolute;
+    height: 742px;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+}
+.input{
+    margin: 0px;
+    padding: 1px;
+}
+.move{
+    position: relative;
+    left: 2px;
+}
+.move1{
+    position: relative;
+    left: 2px;
+}

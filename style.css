@@ -1,0 +1,17 @@
+.colo{
+    background-color: #3500D3;
+}
+.move{
+    position: relative;
+    bottom: 160px;
+    left:500px;
+}
+.doneanimate:hover,
+.doneanimate:focus{
+    transform: scale(0.9);
+    transition: 0.7s;
+    transition-timing-function: ease-out;
+}
+.do{
+    transition: 0.9s;
+}
