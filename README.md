@@ -30,7 +30,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installation
 1. Clone the repository to your local machine:
-
+   https://github.com/ANSURAJ1222/Coursework.git
 
 2. Set up the MySQL database:
    - Create a new database and import the `database.sql` file to set up the necessary tables.
