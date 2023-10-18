@@ -7,6 +7,7 @@ Welcome to the Courses Website project! This is a web application created using 
 ## Table of Contents
 - [Features](#features)
 - [Prerequisites](#prerequisites)
+- [Filestructure](#Filestructure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -27,6 +28,21 @@ Before you begin, ensure you have met the following requirements:
 - Basic knowledge of HTML, CSS, and PHP.
 - A MySQL database to store course and user information.
 - A web browser to access the application.
+
+File Structure
+The project's file structure consists of various PHP, HTML, and CSS files that collectively form this website. Here are some of the main files:
+
+about.php: Information about the project.
+connection.php: PHP script for database connection.
+contact.php: Contact page.
+course.php: Page for displaying individual courses.
+error.php: Error page.
+log.php: Login page.
+logout.php: Logout functionality.
+main.php: Main landing page.
+registered.php: Registration confirmation page.
+tutorial.php: Tutorial or course content page.
+Please note that the project also contains various image files and icons that contribute to the visual aspects of the website.
 
 ## Installation
 1. Clone the repository to your local machine:
